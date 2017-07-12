@@ -1,0 +1,84 @@
+Connecticut|CT
+Rhode Island|RI
+Eastern Massachusetts|EMA
+Vermont|VT
+Maine|ME
+Western Massachusetts|WMA
+New Hampshire|NH
+Eastern New York|ENY
+Northern New York|NNY
+NYC / Long Island|NLI
+Southern New Jersey|SNJ
+Northern New Jersey|NNJ
+Western New York|WNY
+Delaware|DE
+Maryland - DC|MDC
+Eastern Pennsylvania|EPA
+Western Pennsylvania|WPA
+Alabama|AL
+Southern Florida|SFL
+Georgia|GA
+Tennessee|TN
+Kentucky|KY
+Virginia|VA
+North Carolina|NC
+West Central Florida|WCF
+Northern Florida|NFL
+Puerto Rico|PR
+South Carolina|SC
+US Virgin Islands|VI
+Arkansas|AR
+North Texas|NTX
+Louisiana|LA
+Oklahoma|OK
+Mississippi|MS
+South Texas|STX
+New Mexico|NM
+West Texas|WTX
+East Bay|EB
+San Diego|SDG
+Los Angeles|LAX
+San Francisco|SF
+Orange|ORG
+San Joaquin Valley|SJV
+Santa Barbara|SB
+Sacramento Valley|SV
+Santa Clara Valley|SCV
+Pacific|PAC
+Alaska|AK
+Nevada|NV
+Arizona|AZ
+Oregon|OR
+Eastern Washington|EWA
+Utah|UT
+Idaho|ID
+Western Washington|WWA
+Montana|MT
+Wyoming|WY
+Michigan|MI
+West Virginia|WV
+Ohio|OH
+Illinois|IL
+Wisconsin|WI
+Indiana|IN
+Colorado|CO
+Missouri|MO
+Iowa|IA
+Nebraska|NE
+Kansas|KS
+North Dakota|ND
+Minnesota|MN
+South Dakota|SD
+Maritime|MAR
+Saskatchewan|SK
+Newfoundland/Labrador|NL
+Alberta|AB
+Quebec|QC
+British Columbia|BC
+Ontario East|ONE
+Manitoba|MB
+Ontario North|ONN
+Northern Territories|NT
+Ontario South|ONS
+Greater Toronto Area|GTA
+Non US|DX
